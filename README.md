@@ -1,30 +1,215 @@
-Hi, I'm Vishnu Kanuku, a B.E. Information Technology student passionate about building impactful software.
-I specialize in Full-Stack Development, AI/ML, and Mobile App Development using MERN, Python, FastAPI, and Flutter.
-I enjoy creating real-world solutions, from AI-powered platforms to large-scale automation systems.
-Currently learning Data Structures & Algorithms, System Design, and Flutter to strengthen my engineering skills.
-Always open to internships, open-source contributions, and collaborating on innovative projects.
+```markdown
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Vishnu%20Kanuku&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishnuuu.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishnu-kanuku) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vishnu_kanuku) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanukuvishnu1@gmail.com) 
+# 👋 Hi, I'm Vishnu Kanuku
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vishnu1-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vishnu1-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishnu1-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Full-Stack Developer | AI Enthusiast | Mobile App Developer
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishnu1-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Impactful+Software;Full-Stack+Developer;AI%2FML+Enthusiast;Flutter+%26+Mobile+App+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vishnu1-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-kanuku)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishnuuu.3)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vishnu_kanuku)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanukuvishnu1@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=vishnu1-git&style=for-the-badge&color=blue)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vishnu1-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 Bachelor of Engineering (Information Technology)
+
+💡 Passionate about building scalable software solutions that combine modern web technologies, AI, and automation.
+
+🔭 Currently building a **College Automation Platform** that automatically creates and manages virtual classrooms from institutional timetables.
+
+🌱 Currently learning:
+- Data Structures & Algorithms
+- System Design
+- Flutter Development
+- Software Architecture
+
+🎯 Goals:
+- Build a strong developer portfolio
+- Secure Software Engineering internships
+- Contribute to Open Source
+- Network with developers worldwide
+- Build impactful products
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Intelli-Credit — AI Credit Risk Analysis Platform
+
+- AI-powered financial document processing and risk analysis platform
+- Automated PDF extraction and weighted risk scoring
+- FastAPI backend with React dashboard
+- MongoDB-powered analytics system
+
+**Tech:** Python • FastAPI • React.js • MongoDB
+
+---
+
+### 🚚 V.E.L.O.S — Smart Logistics & Driver Assist System
+
+- Real-time logistics monitoring platform
+- Route optimization using Weather & Traffic APIs
+- Emergency alerts and live tracking
+- Firebase-powered synchronization
+
+**Tech:** React.js • Firebase • Google Maps API • OpenWeather API
+
+---
+
+### 🤖 HireWise — AI Resume & Interview Analyzer
+
+- ATS-style resume evaluation system
+- AI-powered interview analysis
+- Skill-gap identification and recommendations
+- LLM-based feedback generation
+
+**Tech:** React.js • FastAPI • Gemini API • Python
+
+---
+
+### 🎓 GateSecure — Smart Campus Entry & Exit Management
+
+- Digital campus access management platform
+- Replaces manual paperwork workflows
+- Automated student entry and exit tracking
+
+**Tech:** MERN Stack
+
+---
+
+## 🔥 Currently Building
+
+### College Automation Platform
+
+A complete academic automation ecosystem that:
+
+✅ Extracts subjects from uploaded syllabus documents
+
+✅ Generates semester-wise academic structures
+
+✅ Creates timetable workflows
+
+✅ Maps faculty to subjects automatically
+
+✅ Creates virtual classrooms automatically
+
+✅ Enrolls students and faculty using institutional email IDs
+
+✅ Eliminates manual classroom creation and WhatsApp link sharing
+
+**Goal:** Fully automate academic classroom management for colleges.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishnu1-git&show_icons=true&theme=github_dark&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu1-git&theme=github-dark-blue" />
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu1-git&layout=compact&theme=github_dark" />
+
+</div>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_LINK)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_LINK)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_LINK)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+[![Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnu1-git&theme=github-compact)](https://github.com/vishnu1-git)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+
+- Open Source Collaboration
+- Internship Opportunities
+- Startup Ideas
+- Full-Stack Development
+- AI & Automation Projects
+
+📧 Email: kanukuvishnu1@gmail.com
+
+---
+
+<div align="center">
+
+### ⭐ Building technology that solves real-world problems.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" />
+```
